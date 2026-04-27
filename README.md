@@ -7,9 +7,12 @@
 
 ## 🚀 How to Run
 
-1. Go to `agent/index.html` in this repo
-2. Click the file → click **"Raw"** → Save the page as `index.html`
-3. Double-click it on your laptop → opens in browser instantly
+Click here to open the agent → [agent/index.html](agent/index.html)
+
+To run locally:
+1. Click the link above → click **"Raw"** → press **Ctrl+S** → save as `index.html`
+2. Double-click the saved file — opens in your browser
+3. No internet needed. No API keys. No installation.
 
 ---
 
@@ -17,11 +20,11 @@
 
 | Start Screen | First Question |
 |---|---|
-| ![Start](https://raw.githubusercontent.com/shreyashray09/dt-reflection-tree/main/Screenshot_2026-04-27_170533.png) | ![Question](https://raw.githubusercontent.com/shreyashray09/dt-reflection-tree/main/Screenshot_2026-04-27_170652.png) |
+| ![Start](https://raw.githubusercontent.com/shreyashray09/dt-reflection-tree/main/Screenshot%202026-04-27%20170533.png) | ![Question](https://raw.githubusercontent.com/shreyashray09/dt-reflection-tree/main/Screenshot%202026-04-27%20170652.png) |
 
 | Branching in Action | End Screen |
 |---|---|
-| ![Branching](https://raw.githubusercontent.com/shreyashray09/dt-reflection-tree/main/Screenshot_2026-04-27_170731.png) | ![End](https://raw.githubusercontent.com/shreyashray09/dt-reflection-tree/main/Screenshot_2026-04-27_170843.png) |
+| ![Branching](https://raw.githubusercontent.com/shreyashray09/dt-reflection-tree/main/Screenshot%202026-04-27%20170731.png) | ![End](https://raw.githubusercontent.com/shreyashray09/dt-reflection-tree/main/Screenshot%202026-04-27%20170843.png) |
 
 ---
 
@@ -81,8 +84,6 @@ Paste the Mermaid code into **[mermaid.live](https://mermaid.live)** to see the 
 ---
 
 ## 📄 Sample Transcripts
-
-Two full walkthroughs showing how the tree branches differently:
 
 - [`transcripts/persona-1-victor.md`](transcripts/persona-1-victor.md) — Victor / Contributing / Altrocentric
 - [`transcripts/persona-2-victim.md`](transcripts/persona-2-victim.md) — Victim / Entitled / Self-Centric
